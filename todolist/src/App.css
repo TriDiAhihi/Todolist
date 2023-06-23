@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.TodoModify {
+  padding: 10% 5%;
+  font-size: 30px;
+  color: gray;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(247, 241, 245);
+  font-family: 'Quicksand', sans-serif;
+  gap: 50px;
+}
+input[type="text"]::placeholder {
+  text-align: center;
+  height: 30px;
+  font-size: large ;
+  outline: none;
+}
+
+
+
+
+
+
+.footer{
+  display: flex;
+  justify-content: space-evenly;
+}
+
